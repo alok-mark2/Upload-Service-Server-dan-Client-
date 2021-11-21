@@ -1,0 +1,7 @@
+F:\JIRISAN\ClientProxy-P4-066\ClientProxy-P4-066\bin\Debug\ClientProxy-P4-066.exe.config
+F:\JIRISAN\ClientProxy-P4-066\ClientProxy-P4-066\bin\Debug\ClientProxy-P4-066.exe
+F:\JIRISAN\ClientProxy-P4-066\ClientProxy-P4-066\bin\Debug\ClientProxy-P4-066.pdb
+F:\JIRISAN\ClientProxy-P4-066\ClientProxy-P4-066\obj\Debug\ClientProxy-P4-066.csproj.AssemblyReference.cache
+F:\JIRISAN\ClientProxy-P4-066\ClientProxy-P4-066\obj\Debug\ClientProxy-P4-066.csproj.CoreCompileInputs.cache
+F:\JIRISAN\ClientProxy-P4-066\ClientProxy-P4-066\obj\Debug\ClientProxy-P4-066.exe
+F:\JIRISAN\ClientProxy-P4-066\ClientProxy-P4-066\obj\Debug\ClientProxy-P4-066.pdb
