@@ -1,0 +1,10 @@
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\bin\Debug\ServerConfigMtk-P2-066.exe.config
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\bin\Debug\ServerConfigMtk-P2-066.exe
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\bin\Debug\ServerConfigMtk-P2-066.pdb
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\bin\Debug\ServiceMTK-P1-066.dll
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\bin\Debug\ServiceMTK-P1-066.pdb
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\bin\Debug\ServiceMTK-P1-066.dll.config
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\obj\Debug\ServerConfigMtk-P2-066.csproj.AssemblyReference.cache
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\obj\Debug\ServerConfigMtk-P2-066.csproj.CoreCompileInputs.cache
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\obj\Debug\ServerConfigMtk-P2-066.exe
+F:\JIRISAN\ServerConfigMtk-P2-066\ServerConfigMtk-P2-066\obj\Debug\ServerConfigMtk-P2-066.pdb
