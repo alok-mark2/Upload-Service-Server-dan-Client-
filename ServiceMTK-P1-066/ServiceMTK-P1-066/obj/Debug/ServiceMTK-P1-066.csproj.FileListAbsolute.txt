@@ -1,0 +1,6 @@
+F:\JIRISAN\ServiceMTK-P1-066\ServiceMTK-P1-066\obj\Debug\ServiceMTK-P1-066.csproj.CoreCompileInputs.cache
+F:\JIRISAN\ServiceMTK-P1-066\ServiceMTK-P1-066\bin\Debug\ServiceMTK-P1-066.dll.config
+F:\JIRISAN\ServiceMTK-P1-066\ServiceMTK-P1-066\bin\Debug\ServiceMTK-P1-066.dll
+F:\JIRISAN\ServiceMTK-P1-066\ServiceMTK-P1-066\bin\Debug\ServiceMTK-P1-066.pdb
+F:\JIRISAN\ServiceMTK-P1-066\ServiceMTK-P1-066\obj\Debug\ServiceMTK-P1-066.dll
+F:\JIRISAN\ServiceMTK-P1-066\ServiceMTK-P1-066\obj\Debug\ServiceMTK-P1-066.pdb
